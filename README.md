@@ -1,4 +1,5 @@
-### Hi there 👋
+:wave: I'm Jadon!
 
-I'm a Software Engineer specializing in Machine Learning, Programming Languages, and Reverse Engineering with professional experience building large software systems for millions of users.
-I will complete my MS in Computer Science at [NAU](https://nau.edu/) in May of 2023.
+Sr Engineer at [Moonsworth](https://moonsworth.com/), building [Lunar](https://lunarclient.com/)
+\
+MS in Computer Science at [NAU](https://nau.edu/), member of the [ML Research Lab](http://ml.nau.edu/)
